@@ -1,8 +1,9 @@
 document.querySelector("button").addEventListener("click", getMovie)
 
-
-
 function getMovie() {
+  // show movie info
+  let movieInfo = document.querySelector("#info")
+  movieInfo.classList.remove("hidden")
   // randomize a number from 0-22
   let random = Math.floor( Math.random() * 22 )
   fetch("https://ghibliapi.herokuapp.com/films/")
@@ -23,7 +24,10 @@ function getMovie() {
     })
     .catch(err => {
         console.log(`error ${err}`)
-    });
+    })
+    
+  
+  
 
 }
 
