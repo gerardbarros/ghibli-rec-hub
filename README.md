@@ -1,4 +1,4 @@
-##Ghibli Rec Hub
+## Ghibli Rec Hub
 An application which reccomends a Studio Ghibli movie 
 
 **Link to project:** https://ghibli-rec-hub.netlify.app/
