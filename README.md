@@ -3,7 +3,7 @@ An application which reccomends a Studio Ghibli movie
 
 **Link to project:** https://ghibli-rec-hub.netlify.app/
 
-![alt tag](https://www.site-shot.com/77X9vNF2Eey7IAJCrBEAAg)
+![screenshot of website](https://www.site-shot.com/77X9vNF2Eey7IAJCrBEAAg)
 
 ## How It's Made:
 Tech used: Javascript with use of fetch API, HTML, CSS
