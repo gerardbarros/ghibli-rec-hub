@@ -1,7 +1,6 @@
-## Ghibli Rec Hub
-An application which reccomends a Studio Ghibli movie 
+## Ghibli Rec Hub - https://ghibli-rec-hub.netlify.app/
 
-**Link to project:** https://ghibli-rec-hub.netlify.app/
+Studio Ghibli is a well known studio that produces well known anime movies. This application recommends the user a random Studio Ghibli film to watch
 
 
 ## Technologies Used: Javascript, HTML CSS
